@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects involving web development, data analysis, or software engineering.
 - 📫 How to reach me: ashelono@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m also a church youth leader and enjoy exploring cultural aspects of literature!
+
 
 
 <!---
